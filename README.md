@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![Docker](https://img.shields.io/badge/docker-supported-blue)
-![License](https://img.shields.io/github/license/gordon0907/tkfmRecruitment)
+![License](https://img.shields.io/github/license/gordonhwc/tkfmRecruitment)
 
 This repository contains a Telegram bot for automatically querying recruitment tag combinations from
 the [TenkafuMA! toolbox](https://purindaisuki.github.io/tkfmtools/enlist/filter/) for the TenkafuMA! mobile game.
@@ -37,7 +37,7 @@ the [TenkafuMA! toolbox](https://purindaisuki.github.io/tkfmtools/enlist/filter/
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/gordon0907/tkfmRecruitment.git
+    git clone https://github.com/gordonhwc/tkfmRecruitment.git
     cd tkfmRecruitment
     ```
 
@@ -78,7 +78,7 @@ the [TenkafuMA! toolbox](https://purindaisuki.github.io/tkfmtools/enlist/filter/
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/gordon0907/tkfmRecruitment.git
+    git clone https://github.com/gordonhwc/tkfmRecruitment.git
     cd tkfmRecruitment
     ```
 
@@ -162,4 +162,4 @@ for the Telegram bot.
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
 
-© 2024 gordon0907
+© 2024 gordonhwc
